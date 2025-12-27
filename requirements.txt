@@ -1,0 +1,23 @@
+# Core
+numpy==1.26.4
+matplotlib==3.10.7
+opencv-python==4.12.0.88
+Pillow==12.0.0
+
+# PyTorch (install CUDA version)
+torch==2.2.1+cu118
+torchvision==0.17.1+cu118
+torchinfo==1.8.0
+
+# Training framework
+pytorch-lightning==1.9.5
+
+# Data & augmentation
+albumentations==1.4.7
+
+# HuggingFace
+transformers==4.57.3
+
+# COCO & visualization helpers
+supervision==0.27.0
+pycocotools==2.0.11
